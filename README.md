@@ -1,0 +1,4 @@
+Pract6
+======
+
+factura
